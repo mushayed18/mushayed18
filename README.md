@@ -8,10 +8,7 @@
 
 
 ## 🌐 Socials:
-<a href="https://www.linkedin.com/in/khandaker-mushayed-rahman-53a155229/" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-</a>
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kmr18adi@gmail.com) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/khmushayed.rahman.5) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/khandaker-mushayed-rahman-53a155229) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mushayed_18) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kmr18adi@gmail.com) 
 
 
 # 💻 Tech Stack:

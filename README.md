@@ -1,3 +1,9 @@
+###
+<div align="center">
+  <img height="160" src="https://i.ibb.co.com/cS6kHV5K/Github-banner.png"  />
+</div>
+###
+
 # 💫 About Me:
 🎓 Hi, I am Khandaker Mushayed Rahman. Final-Year Computer Science Student | East West University, Dhaka, Bangladesh<br>💻 Proficient in MERN Stack (MongoDB, Express.js, React, and Node.js)<br>🌱 Continuously expanding my knowledge in web development and emerging technologies<br>🚀 Passionate about building innovative, scalable, and user-friendly web applications<br>🔍 Actively seeking job opportunities to apply my skills and grow in the tech industry<br>🤝 Open to collaboration, networking, and exploring new possibilities in the tech community
 

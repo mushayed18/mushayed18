@@ -8,13 +8,11 @@
 
 
 ## 🌐 Socials:
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/khandaker-mushayed-rahman-53a155229/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="kmr18adi@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
+  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kmr18adi@gmail.com) 
 </div> 
 
 # 💻 Tech Stack:
